@@ -2,13 +2,14 @@ ETL Project
 03/27/2021
 GROUP 3: Alex Zapuchlak, Brian Halvorson , Calvin Crouch
 
-# MOVIE DATABASE
+# MOVIE PLOTS
+![GitHub Logo](/images/wiz.jpg)
 
-## OBJECTIVE
-Read, clean, and consolidate dataset files by method of ETL (Extract, Transform, and Load) using Python and SQL. 
+## Objective
+Read, clean, and consolidate dataset files by method of ETL (Extract, Transform, and Load) using Python in Jupyter Notebook and SQL in pgAdmin. 
 
 ## Method
-We have decided to examine and combine two CSV files we resourced from Kaggle.com. These CSV files include the “Netflix Movies and TV Shows” dataset and the “Wikipedia Movie Plots” dataset, in which we aim to add in movie descriptions for the current listing of Netflix movies.
+We have decided to examine and combine two CSV files we resourced from Kaggle.com. These CSV files include the “Netflix Movies and TV Shows” dataset and the “Wikipedia Movie Plots” dataset, in which we aim to add in movie plot descriptions for the current listing of Netflix movies.
 
 ## Instructions
 1. ### Extract
