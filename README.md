@@ -29,6 +29,19 @@ We have decided to examine and combine two CSV files we resourced from Kaggle.co
         1. Perform a drop duplicates for any duplicate movies.
 
 1. ### SQL
+    1. Create Database
+    1. Query Tool
+        1. Create Netflix Table
+            1. title: Primary Key 
+            1. country: TEXT
+            1. release_year: INT
+            1. genre: TEXT
+        1. Create Wiki Table
+            1. title: Primary Key
+            1. release_year: INT
+            1. director: TEXT
+            1. genre: TEXT
+            1. plot: TEXT
 
 1. ### Load
     1. enter step here
